@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:open_ad_sdk:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/open_ad_sdk/build/.transforms/4ed0f31f25060c8d64a08c7026e771c8/jetified-open_ad_sdk/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/open_ad_sdk/build/.transforms/4ed0f31f25060c8d64a08c7026e771c8/jetified-open_ad_sdk/res" />
+      <root url="file://$PROJECT_DIR$/open_ad_sdk/build/.transforms/4ed0f31f25060c8d64a08c7026e771c8/jetified-open_ad_sdk/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/open_ad_sdk/build/.transforms/4ed0f31f25060c8d64a08c7026e771c8/jetified-open_ad_sdk/jars/libs/adhost.jar!/" />
+      <root url="jar://$PROJECT_DIR$/open_ad_sdk/build/.transforms/4ed0f31f25060c8d64a08c7026e771c8/jetified-open_ad_sdk/jars/libs/ttmd5-0.0.2-alpha.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <external-files-path
+        name="extfiles"
+        path="autoupdatecache/" />
+    <external-cache-path
+        name="extcachs"
+        path="autoupdatecache/" />
+    <cache-path
+        name="intcachs"
+        path="autoupdatecache/" />
+    <paths>
+        <!--qq-->
+        <!-- 这个下载路径也不可以修改，必须为GDTDOWNLOAD -->
+        <external-cache-path
+            name="gdt_sdk_download_path1"
+            path="com_qq_e_download" />
+        <cache-path
+            name="gdt_sdk_download_path2"
+            path="com_qq_e_download" />
+        <!--qq-->
+        <root-path
+            name="camera_photos"
+            path="" />
+
+        <!--        有米sdk会将apk优先下载在sd卡中，如果sd卡不能使用，则会使用应用私有缓存目录context.getCache()-->
+        <!--        因此需要开发者配置下面两个路径方便有米sdk在下载完apk之后启动apk的安装页面-->
+
+        <cache-path
+            name="apk1"
+            path="." />
+        <external-path
+            name="apk2"
+            path="." />
+
+    </paths>
+</resources>

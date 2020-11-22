@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mian"
+    tools:context=".MainActivity">
+
+
+ />
+
+<Button
+    android:text="@string/uers_net_work"
+    android:layout_width="match_parent"
+    android:id="@+id/am_user_ok"
+    android:layout_height="wrap_content" />
+ <Button
+    android:text="检查更新UI"
+    android:layout_width="match_parent"
+ android:onClick="btCheckUpdate"
+    android:layout_height="wrap_content" />
+ <Button
+    android:text="@string/aprivate"
+    android:layout_width="match_parent"
+    android:id="@+id/am_five_star"
+    android:layout_height="wrap_content" />
+
+ <Button
+     android:text="@string/feed_back"
+     android:onClick="btnFeedBack"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" />
+
+
+ <Button
+     android:text="@string/guiqiu_praise"
+     android:onClick="btnGuiQiuPraise"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" />
+ <Button
+     android:text="@string/back"
+     android:onClick="btnExit"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" />
+ <com.anguomob.total.view.round.RoundTextView
+     android:layout_width="200dp"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="20dp"
+     android:ellipsize="end"
+     android:gravity="center"
+     android:maxLines="1"
+     android:padding="14dp"
+     android:text="您好"
+     app:rv_backgroundColor="#1900CAFF"
+     app:rv_cornerRadius="8dp"
+     android:textColor="@android:color/white"
+     android:textSize="13sp"
+     app:rv_textPressColor="#00CAFF" />
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="click_to_skip">点击跳过</string>
+    <string name="splash_loading">广告加载中</string>
+    <string name="ad_box">广告</string>
+    <string name="anguo_game">游戏</string>
+    <string name="app_name">安果移动</string>
+    <string name="toast_message">Toast message</string>
+    <string name="readok" translatable="false">同意</string>
+    <string name="later" translatable="false">不同意</string>
+    <string name="privacy_policy" translatable="false">"隐私政策"</string>
+    <string name="user_agreement" translatable="false">"用户协议"</string>
+    <string name="read_private" translatable="false">"一定要充分阅读和理解条款，包括但不限于:为了给您提供商业信息、共享内容等服务，我们需要收集您的设备信息、操作日志等个人信息。你可以在设置中查看,如果你同意，点击"同意”开始接受我们的服务。"</string>
+    <string name="bdp_update_not_now">暂不升级</string>
+    <string name="bdp_update_alert">开始更新…</string>
+    <string name="bdp_update_process">正在更新</string>
+    <string name="bdp_update_action_download">立即升级</string>
+    <string name="bdp_update_title_download2" formatted="false">发现新版本：%1$s->%2$s</string>
+    <string name="bdp_update_ignore_copy">忽略此版本</string>
+    <string name="share_app">把本应用分享给我的小伙伴</string>
+    <string name="share">分享</string>
+    <string name="app_ok">确定</string>
+    <string name="exit_text">你确定要退出吗？</string>
+    <string name="other_app">开发者其他的应用</string>
+    <string name="look">查看</string>
+    <string name="read_private_title">用户安全策略</string>
+    <string name="feed_back">意见反馈</string>
+
+    <string name="feedback_contact_hint">联系方式:手机/QQ/微信（可空）</string>
+    <string name="feedback_content_hint">请输入您的反馈意见</string>
+    <string name="submit">提交</string>
+    <string name="feedback_record">反馈记录</string>
+    <string name="request_content">请输入反馈的意见</string>
+    <string name="waiting">正在处理，请稍等片刻…</string>
+    <string name="feedback_success">反馈成功</string>
+    <string name="feedback_failed">反馈失败</string>
+    <string name="net_err">网络错误，请稍后再试</string>
+    <string name="no_market">您的手机未安装应用市场</string>
+    <string name="guiqiu_praise">跪求好评</string>
+    <string name="feed_word_more_1000">反馈内容不得大于1000字</string>
+    <string name="feed_text_not_allow_empty">反馈内容不得为空</string>
+    <string name="contact_more_100">联系人字符超出限制100字</string>
+    <string name="user_agreement_des">"1、协议适用范围及相关定义\n    1.1 本协议约定了安果公司和用户之间就使用“[app_name]”产品一事而产生的权利义务关系。\n     1.2 安果公司：指菏泽安果网络科技有限公司。就本协议涉及的某些服务项目，安果公司的关联企业也可能向您提供服务，与您产生权利义务关系，如双方就此未达成协议，则相应条款参照本协议执行。\n     1.3 用户：指所有直接或间接获取和使用“[app_name]”产品及相关服务（包括但不限于[app_name]官方论坛、官方网站、专属网站、周边产品）的用户。\n     1.4 “[app_name]”产品及服务：指一款由安果公司自主研发、合法拥有并运营的、标注名称为“[app_name]”的客户端应用程序以及对应域名为 “anguomob.com” 的相关网站和相关移动网站，以及与此相关的一切服务。\n\n 2、使用“[app_name]”产品\n     2.1 用户可以从任何合法的渠道下载“[app_name]”软件程序到其合法拥有的终端设备中。但除非得到特别的授权，否则，用户不得以任何形式改编、复制或交易“[app_name]”软件程序。\n     2.2 一旦用户在其终端设备中打开“[app_name]”，即视为使用“[app_name]”产品。为充分实现“[app_name]”的全部功能，用户可能需要将其终端设备联网。\n     2.3 安果公司授权用户拥有全球境内永久地、不可转让的、非独占地和非商业性地使用“[app_name]”产品的权利，但该权利不可转让，安果公司也保留在任何必要情形下收回该授权的权利。\n     2.4 您无需注册即可开始使用“[app_name]”产品。但某些功能和某些单项服务项目，可能要求您必须注册甚至必须实名认证后才能使用。此时，您若想要使用这些功能或服务，则应当完成注册甚至完成实名认证并以注册用户的身份登录。"</string>
+
+</resources>

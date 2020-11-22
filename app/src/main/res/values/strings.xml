@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiuAnLib</string>
+    <string name="uers_net_work">网络请求使用</string>
+    <string name="five_star">网络请求使用</string>
+    <string name="aprivate">隐私政策</string>
+    <string name="privacy_policy_des">隐私政策内容</string>
+    <string name="user_agree_des">用户协议内容</string>
+    <string name="back">退出</string>
+</resources>

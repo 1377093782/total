@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oaid_mi:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_mi/1.0.0/ba2fbc40004a8bb2a1945bf2df8e36898c3a68b9/oaid_mi-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_mi/1.0.0/c7bdcab78a3daa6713604923976798a7433b4d26/oaid_mi-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_mi/1.0.0/bc2522bf919e47b1412430a4dcc72a0cf6b26b54/oaid_mi-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_lib.iml" filepath="$PROJECT_DIR$/android_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android_lib.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android_lib.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/open_ad_sdk/android_lib.open_ad_sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/open_ad_sdk/android_lib.open_ad_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qq_ad/android_lib.qq_ad.iml" filepath="$PROJECT_DIR$/.idea/modules/qq_ad/android_lib.qq_ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/total/android_lib.total.iml" filepath="$PROJECT_DIR$/.idea/modules/total/android_lib.total.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/update_libs/android_lib.update_libs.iml" filepath="$PROJECT_DIR$/.idea/modules/update_libs/android_lib.update_libs.iml" />
+    </modules>
+  </component>
+</project>

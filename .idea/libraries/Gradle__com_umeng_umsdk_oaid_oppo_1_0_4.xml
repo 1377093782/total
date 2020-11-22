@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oaid_oppo:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_oppo/1.0.4/f56e83cdcfa7a7e46fd0a13d6c3e052d0cc79bf6/oaid_oppo-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_oppo/1.0.4/90d0f88788916c5f9d44d0edd14f39d112663272/oaid_oppo-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_oppo/1.0.4/3fff986b447d47de630c2fc0a33eaefb3f42d706/oaid_oppo-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

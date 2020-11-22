@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oaid_lenovo:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_lenovo/1.0.0/c36f443765c45547bee8e52cb943b47f172dfd2e/oaid_lenovo-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_lenovo/1.0.0/90d0f88788916c5f9d44d0edd14f39d112663272/oaid_lenovo-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_lenovo/1.0.0/6cbab69ebbcf4ece67972eb34217cc358e89742f/oaid_lenovo-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

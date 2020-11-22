@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.anguomob.total.view.round.RoundLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    app:rv_strokeColor="@color/color_main"
+    app:rv_strokeWidth="0.5dp">
+
+    <ImageView
+        android:id="@+id/ivIOALogo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvIOATitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#333333"
+            android:textSize="20sp"
+            tools:text="应用名称" />
+
+        <TextView
+            android:id="@+id/tvIODesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#666333"
+            android:textSize="18sp"
+            tools:text="应用描述" />
+
+    </LinearLayout>
+</com.anguomob.total.view.round.RoundLinearLayout>

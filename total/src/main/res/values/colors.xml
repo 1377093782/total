@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_main">#282D3B</color>
+    <color name="color_030303">#030303</color>
+    <color name="default_window_bg">#ffffff</color>
+    <color name="app_green">#FF2D8A29</color>
+    <color name="color_363636_text_setting_main">#363636</color>
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="errorColor">#D50000</color>
+    <color name="infoColor">#3F51B5</color>
+    <color name="successColor">#388E3C</color>
+    <color name="warningColor">#FFA900</color>
+    <color name="white">#ffffff</color>
+    <color name="normalColor">#353A3E</color>
+
+    <color name="color_main2">#6ab04c</color>
+    <color name="background_color">#ffdbdada</color>
+    <color name="gray">#ffc3c3c3</color>
+    <color name="black">#ff000000</color>
+</resources>

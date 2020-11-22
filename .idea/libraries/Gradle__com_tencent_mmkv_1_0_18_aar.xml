@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent:mmkv:1.0.18@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84bf3294bf92da3fb9fc31bda44afe43/jetified-mmkv-1.0.18/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84bf3294bf92da3fb9fc31bda44afe43/jetified-mmkv-1.0.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/84bf3294bf92da3fb9fc31bda44afe43/jetified-mmkv-1.0.18/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fc2429a966202a3e2ab6ceea2c5a8fa/jetified-mmkv-1.0.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fc2429a966202a3e2ab6ceea2c5a8fa/jetified-mmkv-1.0.18/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fc2429a966202a3e2ab6ceea2c5a8fa/jetified-mmkv-1.0.18/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5daea8edc399244af55cdeb13ccda807/jetified-mmkv-1.0.18/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5daea8edc399244af55cdeb13ccda807/jetified-mmkv-1.0.18/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5daea8edc399244af55cdeb13ccda807/jetified-mmkv-1.0.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5414e88fdc53c4efb2ac9b01142edfd4/jetified-mmkv-1.0.18/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5414e88fdc53c4efb2ac9b01142edfd4/jetified-mmkv-1.0.18/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5414e88fdc53c4efb2ac9b01142edfd4/jetified-mmkv-1.0.18/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent/mmkv/1.0.18/3c7beb5bd2971354269b2021d4144cfb52d0e1bd/mmkv-1.0.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

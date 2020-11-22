@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:update_libs:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/update_libs/build/.transforms/eef15c15d7d510435fdeb1aa9b392530/jetified-autoupdatesdk-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/update_libs/build/.transforms/eef15c15d7d510435fdeb1aa9b392530/jetified-autoupdatesdk-release/res" />
+      <root url="file://$PROJECT_DIR$/update_libs/build/.transforms/eef15c15d7d510435fdeb1aa9b392530/jetified-autoupdatesdk-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

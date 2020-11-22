@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:qq_ad:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qq_ad/build/.transforms/925d50040aed792152d7a99e129bf208/jetified-GDTSDK.unionNoPlugin.4.270.1140/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/qq_ad/build/.transforms/925d50040aed792152d7a99e129bf208/jetified-GDTSDK.unionNoPlugin.4.270.1140/res" />
+      <root url="file://$PROJECT_DIR$/qq_ad/build/.transforms/925d50040aed792152d7a99e129bf208/jetified-GDTSDK.unionNoPlugin.4.270.1140/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

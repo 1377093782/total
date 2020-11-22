@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="321dp"
+    android:layout_height="200dp"
+    android:background="@drawable/dialog_white_12r"
+    android:gravity="center"
+    android:orientation="vertical">
+    <View
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/tv_da_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:textColor="#030303"
+        android:textSize="16sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:background="#33666eee"
+        android:layout_height="0.5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="45dp"
+        android:background="@drawable/dialog_white_b12r">
+
+        <TextView
+            android:id="@+id/tv_dso_canel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/dialog_white_br12r"
+            android:gravity="center"
+            android:text="@android:string/cancel"
+            android:textColor="#030303" />
+
+        <View
+            android:layout_height="match_parent"
+            android:background="#33666eee"
+            android:layout_width="0.5dp"/>
+
+        <TextView
+            android:id="@+id/tv_dso_ok"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/dialog_white_bl12r"
+            android:gravity="center"
+            android:text="@android:string/ok"
+            android:textColor="#282D3B" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.umeng.umsdk:oaid_vivo:1.0.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_vivo/1.0.0.1/3227f6a049ff013b1dabe35cd5825a861212b94a/oaid_vivo-1.0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_vivo/1.0.0.1/90d0f88788916c5f9d44d0edd14f39d112663272/oaid_vivo-1.0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/oaid_vivo/1.0.0.1/d6bc71a8b5ed46879368c708e5db587b6941e2b2/oaid_vivo-1.0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
